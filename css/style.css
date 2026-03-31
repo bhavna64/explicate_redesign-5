@@ -597,6 +597,10 @@ img {
   gap: 40px;
   padding: 40px 0;
   border-bottom: 1px solid rgba(0, 0, 0, 0.07);
+  margin-left: -24px;
+  margin-right: -24px;
+  padding-left: 24px;
+  padding-right: 24px;
   align-items: start;
   opacity: 0;
   transform: translateY(24px);
